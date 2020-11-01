@@ -1,4 +1,10 @@
-# i3 config files
+# i3
+
+## Installation
+
+```bash
+sudo apt-get install i3 i3status dmenu i3lock xbacklight feh conky
+```
 
 ## config
 i3 settings.
